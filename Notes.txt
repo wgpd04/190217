@@ -1,0 +1,8 @@
+mysql-ctl stop
+mysql-ctl start
+
+mysql -uroot -p
+
+phpmyadmin-ctl install
+http://yourLab/phpmyadmin
+
